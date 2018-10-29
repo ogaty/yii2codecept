@@ -1,3 +1,22 @@
+```
+[natasha/dev.ogatism yii2codecept]$ vendor/bin/codecept run unit
+
+==== Redirecting to Composer-installed version in vendor/codeception ====
+Codeception PHP Testing Framework v2.5.0
+Powered by PHPUnit 7.3.5 by Sebastian Bergmann and contributors.
+Running with seed: 
+
+
+Unit Tests (1) ---------------------------------------------------------------------------------------------------------
+✔ MainControllerTest: Myfunc (0.01s)
+------------------------------------------------------------------------------------------------------------------------
+
+
+Time: 107 ms, Memory: 8.00MB
+
+OK (1 test, 1 assertion)
+```
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
